@@ -13,4 +13,8 @@ Ideas:
 Goal:
 - a blog a week!
 
+Motivation:
+- Inspire the HR community to embrace analytics
+- Inspire the HR community to take action
+
 
